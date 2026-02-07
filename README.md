@@ -7,7 +7,7 @@
 ```
 Agent-Skills/
 ├── skills/
-│   ├── infrastructure/  # Infrastructure 团队（技术设施建设）专属skills
+│   ├── infrastructure/  # Infrastructure 团队（基础设施建设）专属skills
 │   ├── upstream/        # Upstream 团队（上游开发贡献）专属skills
 │   ├── operation/       # Operation 团队（社区运营）专属skills
 │   └── shared/          # 跨团队共享的skills
